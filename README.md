@@ -10,6 +10,7 @@ This is basic work flow of the project we'll update as we go along.
 
 ## Info About mainCode.py
 This file will contain the main Source Code for the Project. 
+We'll add the discription of all the function here 
 
 
 
